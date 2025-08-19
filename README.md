@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 Welcome to my portfolio! 🚀  
-Here I showcase projects across **Python, SQL, Power BI, Bioinformatics, and Communication**.  
+Here I showcase projects across **Excel, Python, SQL, Power BI, Bioinformatics, and Communication**.  
 
 ## Projects
 - 📊 [Excel Project](Excel_Project/README.md)
